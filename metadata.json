@@ -1,0 +1,6 @@
+{
+  "name": "Holiday Social Media Planner",
+  "description": "An interactive digital studio for social media managers to brainstorm campaigns, generate captions, create visual briefs, and preview posts for upcoming holidays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
